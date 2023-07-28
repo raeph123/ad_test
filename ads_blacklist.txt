@@ -1,1 +1,8 @@
 0.0.0.0 events.ads.vungle.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 tr-eu.adsmoloco.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 configv2.unityads.unity3d.com
